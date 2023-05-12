@@ -1,6 +1,6 @@
-# my_first_flutter_project
+# my_first_flutter_project/ Islam on Tap app
 
-A new Flutter project.
+So far it is a simple compass app. 
 
 ## Getting Started
 
